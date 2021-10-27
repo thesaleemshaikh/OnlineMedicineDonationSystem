@@ -8,5 +8,8 @@
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
 
+<h2>First Blog</h2>
+<p>Blog paragraph</p>
+
 </body>
 </html>
